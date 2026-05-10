@@ -69,16 +69,34 @@ I don't just write code — I build products. Currently shipping multiple SaaS p
 
 ### 📊 GitHub Stats
 
+<!--
+  Temp fix (Nov 2025): The official github-readme-stats.vercel.app was paused
+  by its maintainer (see https://github.com/anuraghazra/github-readme-stats/issues/4737).
+  Using a community mirror below. When you have 5 minutes, do the permanent fix:
+
+  PERMANENT FIX — SELF-HOST (free, yours, unbreakable):
+    1. Go to https://github.com/anuraghazra/github-readme-stats and click "Fork".
+    2. Go to https://vercel.com/new, import the fork, click Deploy.
+    3. In Vercel → your new project → Settings → Environment Variables, add:
+         Name:  PAT_1
+         Value: a GitHub classic token with scopes: public_repo, read:user
+                (create it at https://github.com/settings/tokens)
+    4. Redeploy the project (Deployments tab → ... → Redeploy).
+    5. Copy your new URL (e.g. github-readme-stats-emmanuelakbi.vercel.app) and
+       replace every occurrence of "github-readme-stats-sigma-five.vercel.app"
+       in this file with it.
+-->
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=emmanuelakbi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=emmanuelakbi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=emmanuelakbi&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" height="170"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelakbi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emmanuelakbi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170"/>
 
 </div>
 
