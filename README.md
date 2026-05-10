@@ -18,17 +18,15 @@
 
 I don't just write code — I build products. Currently shipping multiple SaaS platforms targeting Africa-first, global-second.
 
-| Project                                                               | Description                                                                                                    | Status       |
-| --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------------ |
-| 🤖 **[Forge8004](https://github.com/emmanuelakbi/forge8004)**         | ERC-8004 trust layer for autonomous DeFi trading agents on Base Sepolia — AI trading + on-chain identity       | ✅ Live      |
-| 🔍 **[InsightSprint](https://github.com/emmanuelakbi/insightsprint)** | AI-powered market research platform — vague goals to structured intelligence in minutes                        | ✅ Live      |
-| 💸 **[CashTrace](https://github.com/emmanuelakbi/cashtrace)**         | SME cashflow & compliance copilot for Nigerian businesses — AI receipt scanning, NDPR compliance               | ✅ Live      |
-| � **[KudiBridge](https://kudibridge.com)**                            | Web3 payment infrastructure for global creators — crypto payments, local currency cashout (NGN, GHS, KES, ZAR) | 🚀 Launching |
-| �🎬 **Yoclips**                                                       | AI-powered video automation SaaS — topic to published YouTube/TikTok video on autopilot                        | 🔨 Building  |
-| ⛪ **Ekklesia**                                                       | Multi-tenant church management platform with 24 modules, AI Pastor Assistant, WhatsApp bot                     | 🔨 Building  |
-| 🏫 **ClassHub**                                                       | Multi-tenant school management SaaS with 50+ features, AI grading, parent WhatsApp bot                         | 🔨 Building  |
-| 💰 **OrbitPayroll**                                                   | Payroll & HR management SaaS for Nigeria (PAYE, pension, NHF, NSITF compliance)                                | 📋 Planned   |
-| 🎓 **GradSphereHub**                                                  | AI-powered Next.js blog + job directory at gradspherehub.com                                                   | 🔨 Building  |
+| Project                                                       | Description                                                                                                    | Status       |
+| ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------------ |
+| 🤖 **[Forge8004](https://github.com/emmanuelakbi/forge8004)** | ERC-8004 trust layer for autonomous DeFi trading agents on Base Sepolia — AI trading + on-chain identity       | ✅ Live      |
+| 📊 **[FinAgent](https://github.com/emmanuelakbi/FinAgent)**   | Autonomous multi-agent AI for financial research & trading signals — Qwen3 on AMD MI300X, 5 specialized agents | ✅ Live      |
+| 💱 **[KudiBridge](https://kudibridge.com)**                   | Web3 payment infrastructure for global creators — crypto payments, local currency cashout (NGN, GHS, KES, ZAR) | 🚀 Launching |
+| 🎬 **Yoclips**                                                | AI-powered video automation SaaS — topic to published YouTube/TikTok video on autopilot                        | 🔨 Building  |
+| ⛪ **Ekklesia**                                               | Multi-tenant church management platform with 24 modules, AI Pastor Assistant, WhatsApp bot                     | 🔨 Building  |
+| 🏫 **ClassHub**                                               | Multi-tenant school management SaaS with 50+ features, AI grading, parent WhatsApp bot                         | 🔨 Building  |
+| 🎓 **GradSphereHub**                                          | AI-powered Next.js blog + job directory at gradspherehub.com                                                   | � Building   |
 
 ---
 
@@ -58,9 +56,9 @@ I don't just write code — I build products. Currently shipping multiple SaaS p
 ### 🎯 Current Focus
 
 ```
-🤖 Forge8004      → DeFi trust layer for AI trading agents (ERC-8004 + Groq AI + Base Sepolia)
-🔍 InsightSprint   → AI market research platform (Groq + Gemini agentic pipeline)
-💸 CashTrace       → SME cashflow copilot (Gemini AI + NDPR compliance + Paystack)
+🤖 Forge8004       → DeFi trust layer for AI trading agents (ERC-8004 + Groq AI + Base Sepolia)
+📊 FinAgent        → Multi-agent AI trading signals (Qwen3 + CrewAI on AMD MI300X)
+💱 KudiBridge      → Creator payment infrastructure (NOWPayments + Quidax + Paystack)
 🎬 Yoclips         → AI video automation (MoneyPrinterTurbo engine + Runway/Kling)
 ⛪ Ekklesia        → Church management with AI Pastor Assistant & WhatsApp mini-app
 🏫 ClassHub        → School management with AI grading & parent WhatsApp bot
