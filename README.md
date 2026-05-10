@@ -69,16 +69,24 @@ I don't just write code — I build products. Currently shipping multiple SaaS p
 
 ### 📊 GitHub Stats
 
+<!--
+  NOTE: If these cards render as broken thumbnails on your profile, the
+  github-readme-stats Vercel deployment is being rate-limited by GitHub.
+  Fix: fork https://github.com/anuraghazra/github-readme-stats, deploy your
+  own copy to Vercel with a PAT env var (PAT_1), and swap "github-readme-stats.vercel.app"
+  below for "your-fork.vercel.app". Takes ~5 minutes, permanently reliable.
+-->
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=emmanuelakbi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=emmanuelakbi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&cache_seconds=21600" alt="GitHub Stats" height="170"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=emmanuelakbi&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" height="170"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelakbi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelakbi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&cache_seconds=21600" alt="Top Languages" height="170"/>
 
 </div>
 
