@@ -129,7 +129,7 @@ So I build them.
 
 ### ⚡ Fun Facts
 
-- 🧠 I research deeper than most people build — every project starts with a 5,000+ word research doc before a single line of code
+- 🧠 I research deeper than most people build — every project starts with a 5,000+ word research doc
 - 🌍 Building 5 SaaS products simultaneously because I can't pick just one problem to solve
 - 🕐 My most productive hours are between 11 PM and 3 AM
 - ☕ I've calculated that coffee accounts for approximately 40% of my development velocity
