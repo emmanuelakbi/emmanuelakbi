@@ -2,13 +2,13 @@
 
 # Hey, I'm Emmanuel 👋
 
-### Full-Stack Developer Building SaaS Products for Africa & Beyond
+### Full-Stack Developer Building SaaS Products
 
 [![Twitter](https://img.shields.io/badge/X-@emmanuelakbi-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/emmanuelakbi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-emmanuelakbi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuelakbi)
 [![Website](https://img.shields.io/badge/Website-emmanuelakbi.com-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://emmanuelakbi.com)
 
-📍 Lagos, Nigeria | 🚀 Building products that solve real problems | ☕ Powered by coffee and ambition
+Building products that solve real problems | ☕ Powered by coffee and ambition c
 
 </div>
 
@@ -16,13 +16,13 @@
 
 ### 🔭 What I'm Building
 
-I don't just write code — I build products. Currently shipping multiple SaaS platforms targeting Africa-first, global-second.
+I don't just write code — I build products. Currently shipping multiple SaaS platforms.
 
 | Project                                                       | Description                                                                                                    | Status       |
 | ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------------ |
 | 🤖 **[Forge8004](https://github.com/emmanuelakbi/forge8004)** | ERC-8004 trust layer for autonomous DeFi trading agents on Base Sepolia — AI trading + on-chain identity       | ✅ Live      |
 | 📊 **[FinAgent](https://github.com/emmanuelakbi/FinAgent)**   | Autonomous multi-agent AI for financial research & trading signals — Qwen3 on AMD MI300X, 5 specialized agents | ✅ Live      |
-| 💱 **[KudiBridge](https://kudibridge.com)**                   | Web3 payment infrastructure for global creators — crypto payments, local currency cashout (NGN, GHS, KES, ZAR) | 🚀 Launching |
+| 💱 **[KudiBridge](https://kudibridge.com)**                   | Web3 payment infrastructure for global creators — crypto payments, multi-currency cashout                      | 🚀 Launching |
 | 🎬 **Yoclips**                                                | AI-powered video automation SaaS — topic to published YouTube/TikTok video on autopilot                        | 🔨 Building  |
 | ⛪ **Ekklesia**                                               | Multi-tenant church management platform with 24 modules, AI Pastor Assistant, WhatsApp bot                     | 🔨 Building  |
 | 🏫 **ClassHub**                                               | Multi-tenant school management SaaS with 50+ features, AI grading, parent WhatsApp bot                         | 🔨 Building  |
@@ -119,9 +119,9 @@ Hosting      →  VPS + Coolify / Vercel / Railway
 
 ### 💡 Philosophy
 
-> **"Build for Africa first, scale globally."**
+> **"Build products that solve real problems."**
 
-I believe the biggest software opportunities are in solving real problems for African businesses — churches that still use paper registers, schools that compute results manually for weeks, companies that struggle with payroll compliance. The tools exist globally but they're too expensive, too US-centric, and don't integrate with African payment systems.
+I believe the biggest software opportunities are in solving real problems for businesses — churches that still use paper registers, schools that compute results manually for weeks, companies that struggle with payroll compliance. The tools exist but they're too expensive or too complex for the people who need them most.
 
 So I build them.
 
@@ -131,9 +131,9 @@ So I build them.
 
 - 🧠 I research deeper than most people build — every project starts with a 5,000+ word research doc before a single line of code
 - 🌍 Building 5 SaaS products simultaneously because I can't pick just one problem to solve
-- 🕐 My most productive hours are between 11 PM and 3 AM (Lagos time)
+- 🕐 My most productive hours are between 11 PM and 3 AM
 - ☕ I've calculated that coffee accounts for approximately 40% of my development velocity
-- 📱 I believe WhatsApp bots will replace mobile apps for 80% of use cases in Africa
+- 📱 I believe WhatsApp bots will replace mobile apps for 80% of use cases in emerging markets
 - 🎬 I'm building an AI video tool while also being the target user — meta-level product development
 
 ---
